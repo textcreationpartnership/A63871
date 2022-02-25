@@ -1,0 +1,575 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the right honourable the Lord Mayor, and Aldermen of London at the Guild-Hall Chappel, Octob. the 28th 1677 / by Bryan Turner ...</title>
+            <author>Turner, Bryan, 1634 or 5-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63871</idno>
+            <idno type="STC">Wing T3270</idno>
+            <idno type="STC">ESTC R1722</idno>
+            <idno type="EEBO-CITATION">12242280</idno>
+            <idno type="OCLC">ocm 12242280</idno>
+            <idno type="VID">56818</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63871)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56818)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 901:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the right honourable the Lord Mayor, and Aldermen of London at the Guild-Hall Chappel, Octob. the 28th 1677 / by Bryan Turner ...</title>
+                  <author>Turner, Bryan, 1634 or 5-1698.</author>
+               </titleStmt>
+               <extent>[2], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Broome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Advertisement: p. 36.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Timothy, 2nd, I, 7 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="request_to_print">
+            <pb facs="tcp:56818:1"/>
+            <opener>
+               <signed>
+                  <figure>
+                     <figDesc>blazon or coat of arms of the City of London</figDesc>
+                  </figure> Chaplyn Mayor.</signed>
+               <dateline>
+                  <date>
+                     <hi>Martis, VI. die</hi> Novembris, 1677. <hi>Anno<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Regni Regis CAROLI Secundi</hi> Angliae, <hi>&amp;c. XXIX.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>THis Court doth earneſtly deſire Mr. <hi>Bryan Turner,</hi> to Print his Sermon Preached at the <hi>Guild-Hall</hi> Chappel, on <hi>Sunday</hi> last being St. <hi>Simon</hi> and <hi>Jude's</hi> Day, before the Lord Mayor and Aldermen of this City.</p>
+            <closer>
+               <signed>Wagſtaffe.</signed>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>G<g ref="char:V">Ʋ</g>IL. JANE.</signed>
+               <date>Novemb. 22. 1677.</date>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:56818:1"/>
+            <p> A SERMON Preached before the RIGHT HONOURABLE THE Lord Mayor, AND Aldermen of London, AT THE <hi>G<g ref="char:V">Ʋ</g>ILD-HALL CHAPPEL.</hi>
+            </p>
+            <p>Octob. <hi>the 28th.</hi> 1677.</p>
+            <p>By <hi>BRYAN T<g ref="char:V">Ʋ</g>RNER,</hi> B. D. Chaplain to the Right Honourable <hi>Charles</hi> Earl of <hi>Carliſle,</hi> &amp;c. One of the Lords of His Majeſties moſt Honourable Privy-Council.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Brome</hi> at the <hi>Gun,</hi> near the Weſt-End of St. <hi>Pauls.</hi> 1678.</p>
+            <pb facs="tcp:56818:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:56818:2"/>
+            <epigraph>
+               <bibl>2 Tim. I. 7.</bibl>
+               <q>God hath not given us the ſpirit of fear, but of power and love, and of a ſound mind.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the Conſideration of which words, three Things will be requiſite for me to endeavour:</p>
+            <p n="1">1. The Explication of the Apoſtles meaning.</p>
+            <p n="2">2. The Obſervation and Diſcuſſion of the grand Doctrine aſſerted.</p>
+            <p n="3">3. The Application of ſuch uſeful in<g ref="char:EOLhyphen"/>ferences as that Doctrine offers, and the time permits.</p>
+            <p>
+               <hi>Firſt,</hi> The Explication will depend upon the ſatisfaction of theſe three In<g ref="char:EOLhyphen"/>quiries. <hi>Firſt,</hi> What is meant by the <hi>ſpirit of fear</hi> on the one hand, and the <hi>ſpi<g ref="char:EOLhyphen"/>rit of Love</hi> on the other? <hi>Secondly,</hi> Who he intends by them, to whom the <hi>ſpirit of</hi>
+               <pb n="2" facs="tcp:56818:3"/> 
+               <hi>Fear</hi> was given, for by the other 'tis plain he means Chriſtians. <hi>Thirdly,</hi> What the reaſons are of this different <hi>ſpirit</hi> here deſcribed?</p>
+            <p n="1">1. Then, by the <hi>ſpirit of Fear</hi> he means that inward frame, diſpoſition, or habitual affection of <hi>Mind,</hi> ariſing from the paſſion of <hi>Fear;</hi> as by the <hi>Spirit</hi> of jea<g ref="char:EOLhyphen"/>louſie, <hi>Numb.</hi> 5. 15. is meant that affecti<g ref="char:EOLhyphen"/>on ſeizing and poſſeſſing the <hi>Mind.</hi>
+            </p>
+            <p>So by the <hi>ſpirit of Love,</hi> he means the contrary frame, or habitual affection: For the <hi>ſpirit of power, and a ſound mind,</hi> are but coincident with <hi>Love,</hi> and make up that one frame of <hi>Spirit,</hi> oppoſed here to the <hi>ſpirit of Fear. Power</hi> is oppoſed to weakneſs, <hi>and a ſound mind</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) is oppoſed to ſtupidity, and abject thoughts; ſo that <hi>power, and a ſound mind,</hi> are but the immediate reſults of <hi>Love,</hi> as debility and ſtupidity are of <hi>Fear.</hi>
+            </p>
+            <p>For <hi>Fear</hi> naturally is an impotent paſ<g ref="char:EOLhyphen"/>ſion. Firſt, it weakens the mind, and be<g ref="char:EOLhyphen"/>trays the ſuccours of the ſoul; upon which it ſecondly diſcompoſes the mind, and like an amazing blow ſtaggers and
+<pb n="3" facs="tcp:56818:3"/> obſtructs the acts of Underſtanding, and befools it.</p>
+            <p>But <hi>Love</hi> is a vigorous and active af<g ref="char:EOLhyphen"/>fection; and therefore, Firſt, It gives ſtrength or activity, called here <hi>Power.</hi> Secondly, It gives thereupon invention, will, and ſagacity, called here <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a ſound mind,</hi> or a quick and wiſely ap<g ref="char:EOLhyphen"/>prehenſive mind.</p>
+            <p>
+               <hi>Love</hi> is always ſtrong and active, I cannot ſay 'tis always clear-ſighted, or of a ſound mind and judgment: but this defect ought not to be aſcribed to the affection, but its object.</p>
+            <p>'Tis a paſſionate Love of an undue object, that is blind: Religious Love (the ſubject of the Text) is always clear-ſighted, <hi>i. e.</hi> it frames the mind of Man to the nobleſt, and therefore wiſeſt ap<g ref="char:EOLhyphen"/>prehenſions of God, and things Divine, of any diſpoſition or affection whatſoever.</p>
+            <p>In ſhort, that weakneſs and meanneſs of ſpirit, which fear is apt to beget is the <hi>ſpirit of fear.</hi> That cheerful activity and ſagacity that Love is apt to beget, and diſpoſe the mind to, is <hi>the ſpirit of power, love, and a ſound mind,</hi> which ſatisfies the
+<pb n="4" facs="tcp:56818:4"/> firſt Inquiry. What is meant by the <hi>ſpi<g ref="char:EOLhyphen"/>rit of Fear,</hi> &amp;c?</p>
+            <p n="2">2. Who the Apoſtle intends by them, to whom this <hi>ſpirit of fear</hi> was given.</p>
+            <p n="3">3. For what Reaſons was it ſo? To both which I anſwer.</p>
+            <p>They were the <hi>Jews</hi> chiefly under the Moſaical Law, not excluding the Hea<g ref="char:EOLhyphen"/>thens under Gentile Superſtition. That Oeconomy under which the <hi>Jew</hi> was, and that Superſtition under which the <hi>Gentiles</hi> were, were the Reaſons of that <hi>ſpirit of fear</hi> they were under. Not that both theſe were alike in the Apoſtles account; but that in compariſon with Chriſtianity, as <hi>Gentiliſm</hi> was ſinful, ſo <hi>Judaiſm</hi> was im<g ref="char:EOLhyphen"/>perfect.</p>
+            <p>By this Apoſtle, when Chriſtianity is is oppos'd to other ways of Religion, 'tis plain he ſometimes implies <hi>Gentiliſm,</hi> but eſpecially <hi>Judaiſm;</hi> as 'tis evident from all his Epiſtles, eſpecially to the <hi>Romans</hi> and <hi>Galatians:</hi> and when he ſays in the Text of Chriſtians, <hi>God hath not given us the ſpirit of fear,</hi> he doth imply, ſome others had that Spirit given 'em, or were under it.</p>
+            <pb n="5" facs="tcp:56818:4"/>
+            <p> That the <hi>Gentiles</hi> in their Religion were acted by the <hi>ſpirit of fear,</hi> is manifeſt from this Apoſtle, who calls their Devotions <note place="margin">Acts 17. 22, 23.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Superſtition, or a dread of <hi>De<g ref="char:EOLhyphen"/>mons,</hi> which with them ſignified Divine Powers.</p>
+            <p>That the <hi>Jews</hi> under the Moſaical Oeco<g ref="char:EOLhyphen"/>nomy, were in a great meaſure acted by the <hi>ſpirit of fear,</hi> is evident from this Apo<g ref="char:EOLhyphen"/>ſtle, <hi>Gal.</hi> 4 6. and <hi>Rom.</hi> 8. 15. where the ſame phraſes that are in the Text occur<g ref="char:EOLhyphen"/>ring, do extend the ſenſe of it to Chriſti<g ref="char:EOLhyphen"/>ans univerſally, as under the Goſpel; and not to <hi>Timothy</hi> alone, as in a peculiar Fun<g ref="char:EOLhyphen"/>ction and Miniſtry.</p>
+            <p>
+               <hi>We have not received the ſpirit of bon<g ref="char:EOLhyphen"/>dage</hi> 
+               <note place="margin">Rom. 8. 15.</note> 
+               <hi>again to fear,</hi> (as the <hi>Iſraelites</hi> at the dreadful giving of the Law, <hi>Exod.</hi> 19. 16.) <hi>but the ſpirit of adoption whereby we cry, Abba, Father: i. e.</hi> the filial diſpo<g ref="char:EOLhyphen"/>ſition proceeding from Love, excited in us by the placid invitations, and paternal directions of the Goſpel.</p>
+            <p>For that this <hi>ſpirit of bondage to fear,</hi> refers to the <hi>Jews</hi> under the Moſaical Law, is moſt apparent from <hi>Gal.</hi> 4. 1, 2, 3, &amp;c.</p>
+            <p>So that the true and extenſive meaning
+<pb n="6" facs="tcp:56818:5"/> of the Text is this, <hi>The ſpirit of fear</hi> was a temper naturally impreſt by the Moſai<g ref="char:EOLhyphen"/>cal Law, and ſuitable to that Oeconomy, a main impulſive principle in their Religi<g ref="char:EOLhyphen"/>ous obſervations of it. (And in freedom from this conſiſts a great part of that mi<g ref="char:EOLhyphen"/>ſtaken Chriſtian-liberty, this Apoſtle ſpeaks of in his Epiſtles).</p>
+            <p>Whereas the ſpirit of Love, or a filial diſpoſition, is a temper which the Goſpel is apt to beget, and the chief and perma<g ref="char:EOLhyphen"/>nent principle moving to the Religious ob<g ref="char:EOLhyphen"/>ſervations of it. The truth of both which will appear from theſe Reaſons:</p>
+            <p n="1">1. The Law was given in a tremendous manner: ſo terrible was the ſight, that as the people could not endure that which was commanded; ſo even <hi>Moſes</hi> the Me<g ref="char:EOLhyphen"/>diator ſaid, <hi>I exceedingly fear and quake,</hi> Heb. 12. 18, <hi>&amp;c.</hi> Exod. 19. 16.</p>
+            <p n="2">2. The Rules it preſcrib'd were preciſe reſtraints of natural liberty, and being both ceremonial and numerous (not to add painful and expenſive) they were a heavy yoke, and as the Apoſtle ſays, intolerable, <note place="margin">Act. 15. 10.</note> ſuch as neither they nor their Fathers could bear.</p>
+            <p n="3">
+               <pb n="7" facs="tcp:56818:5"/> 3. The Sanction of this Law under ſo ſe<g ref="char:EOLhyphen"/>vere a Curſe was rigorous, <hi>Gal.</hi> 3. 10. <hi>Curſed is every one,</hi> &amp;c.</p>
+            <p n="4">4. Therefore their delinquencies could not but be frequent, and conſequently their juſt fears great and laſting.</p>
+            <p>And for this reaſon, as I conceive, the Old Teſtament uſually expreſſes Religion by the Fear of God. He finding it re<g ref="char:EOLhyphen"/>quiſite, not only for the ſake of that Mi<g ref="char:EOLhyphen"/>nority of the people, but their ſtubborn<g ref="char:EOLhyphen"/>neſs too, to behave himſelf towards 'em, rather as a Lord to his ſervants, than a Father to his Children. Which is the <note place="margin">Ezek. 20. 33.</note> account God gives himſelf in the Pro<g ref="char:EOLhyphen"/>phet.</p>
+            <p>But on the contrary Chriſtianity is an Oeconomy (if rightly underſtood) to which love and gratitude, as the predomi<g ref="char:EOLhyphen"/>nant impreſſion, is moſt proper and agree<g ref="char:EOLhyphen"/>able.</p>
+            <p n="1">1. Becauſe its propoſal and delivery is tender'd in the wooing manner of intreaty. <hi>As if God did beſeech you by us,</hi> ſays this <note place="margin">2 Cor. 5. 20.</note> Apoſtle.</p>
+            <p n="2">2. The Rules it preſcribes are General, left to our prudence to apply; therefore
+<pb n="8" facs="tcp:56818:6"/> not reſtrictive of liberty; and by their in<g ref="char:EOLhyphen"/>trinſecal goodneſs, congruous to our own rational approbation, as clearing up and perfecting our natural notions of good and evil.</p>
+            <p n="3">3. The Sanction of the Goſpel admits of repentance, and is after much long-ſuf<g ref="char:EOLhyphen"/>fering rigorous upon no offenders, but the pertinacious unbelievers, <hi>i. e.</hi> impenitent.</p>
+            <p n="4">4. The promiſes of Divine aſſiſtance gives cheerful encouragement to our reſolu<g ref="char:EOLhyphen"/>tions and duty, if we be ſincere and vigi<g ref="char:EOLhyphen"/>lant; ſo that our offences need not be nu<g ref="char:EOLhyphen"/>merous or heinous, and conſequently our fears no greater than true prudence in all weighty intereſts require, to make us of a circumſpect, but not an abject ſpirit: but all things concur to raiſe our love and gra<g ref="char:EOLhyphen"/>titude immenſly.</p>
+            <p>And for this reaſon I obſerve the New Teſtament uſually expreſſes Religion by the <hi>love of God,</hi> as the Old Teſtament did by <hi>Fear,</hi> as <hi>Rom.</hi> 5. 5. 8. 28. 1 <hi>Cor.</hi> 2. 9. 8. 3. <hi>Gal.</hi> 5. 6. &amp; 22. <hi>Jam.</hi> 1. 12 <hi>Epiſt.</hi> of <hi>Jude</hi> 21. <hi>But ye brethren keep your ſelves in the love of God, i. e.</hi> in the true Chri<g ref="char:EOLhyphen"/>ſtian Religion, as will be evident to any
+<pb n="9" facs="tcp:56818:6"/> that reads the foregoing diſcourſe, where he ſpeaks of Apoſtates, <hi>&amp;c.</hi>
+            </p>
+            <p>And ſo 1 <hi>John</hi> 2. 5. <hi>Whoſo keepeth his word, in him verily is the love of God perfected,</hi> i.e. the Chriſtian Religion which he profeſſes, and which ought to be erected upon this foundation, is riſen to its due per<g ref="char:EOLhyphen"/>fection: <hi>For he that feareth</hi> (i.e. who is chiefly moved by that principle in Religi<g ref="char:EOLhyphen"/>on)<note place="margin">1 Joh. 4. 18.</note> 
+               <hi>is not made perfect in love,</hi> ie. has not attain'd to that inward diſpoſition, which of all others is the nobleſt and moſt gene<g ref="char:EOLhyphen"/>rous Principle of ſerving God.</p>
+            <p>I do not charge the <hi>ſpirit of fear</hi> in <hi>Ju<g ref="char:EOLhyphen"/>daiſm</hi> as peccant through any intrinſecal evil, but only as deficient through imper<g ref="char:EOLhyphen"/>fection: <hi>For the Law made nothing perfect,</hi> 
+               <note place="margin">Heb. 7. 19.</note> and therefore not the frame of mind, or in<g ref="char:EOLhyphen"/>ward principle of their Religion.</p>
+            <p>But the <hi>ſpirit of Fear</hi> in <hi>Gentiliſm</hi> was juſtly chargeable as peccant through intrin<g ref="char:EOLhyphen"/>ſecal evil, both becauſe out of this principle they worſhip't falſe gods and many ſuch, and by acts of intrinſecal immorality, as humane ſacrifices, and the like.</p>
+            <p>But <hi>Judaiſm</hi> before the Goſpel, was not Superſtition, but Imperfection; for the
+<pb n="10" facs="tcp:56818:7"/> true God was the object of their worſhip, and their ſervices, though not intrinſecally good, yet were innocent from evil.</p>
+            <p>The hardneſs of their heart was the <note place="margin">Ezek. 20.</note> reaſon why ſuch Laws were given 'em, as our Saviour tells 'em, <hi>Mat.</hi> 19. 18. And their Oeconomy being deſigned only for a pedagogical Introduction to the Goſpel, Fear (which laſt of all paſſions breaks <note place="margin">Gal. 3. 24.</note> the heart) was wiſely ſuited to that Oeco<g ref="char:EOLhyphen"/>nomy, and may be a good initial diſpoſi<g ref="char:EOLhyphen"/>tion, where men are incapable of another; but being imperfect, as all beginnings are, is only to be approved, as tending to a better.</p>
+            <p>And that God would have had them un<g ref="char:EOLhyphen"/>der the Law ariſen to the perfecter affecti<g ref="char:EOLhyphen"/>on of Love, appears plainly from the great Commandment, though their ſtubborn in<g ref="char:EOLhyphen"/>capacity neceſſitated him to keep 'em under the <hi>ſpirit of Fear.</hi>
+            </p>
+            <p>Thus I have endeavoured to clear the A<g ref="char:EOLhyphen"/>poſtles meaning, and my ſelf for affixing it, whereby I have made way for the ſecond Thing I propounded, <hi>viz.</hi> the grand Do<g ref="char:EOLhyphen"/>ctrinal truth here aſſerted, which is this:</p>
+            <p>2. <hi>That Love is the genuine principle of</hi>
+               <pb n="11" facs="tcp:56818:7"/> 
+               <hi>the moſt perfect Religion, and ought to be that frame or inward affection of mind, from whence our ſervices of God in Chriſtianity proceed.</hi> God hath not given us the ſpirit of fear, but, <hi>&amp;c.</hi>
+            </p>
+            <p>Which inward principle or diſpoſition of ſpirit Religion proceeds from, as 'tis the chief thing regarded in the eyes of God; ſo it muſt needs be the weightieſt conſideration in our own, becauſe upon the iſſues of this depends our acceptance with God, and our own well-grounded peace of conſcience, and everlaſting com<g ref="char:EOLhyphen"/>fort.</p>
+            <p>Doubtleſs therefore I have propounded one of the moſt uſeful arguments in the world, and with Divine aſſiſtance ſhall de<g ref="char:EOLhyphen"/>liver you my thoughts therein as perſpicu<g ref="char:EOLhyphen"/>ouſly, as the nature of the ſubject, and the allowance of the time permits.</p>
+            <p>Religion in General is the obligation we are under to God, the Supreme and Original Being; and therefore implies all the ſervices we pay him, and all that obe<g ref="char:EOLhyphen"/>dience we give to any law for his ſake, <hi>i. e.</hi> with reſpect to any Divine Attribute.</p>
+            <p>This in the General notion of it is na<g ref="char:EOLhyphen"/>tural
+<pb n="12" facs="tcp:56818:8"/> to man; and indeed I am of their mind, who think it the ſpecifick difference of hu<g ref="char:EOLhyphen"/>mane nature, rather than Reaſon; becauſe thoſe inferiour creatures, who in many acts ſeem to indicate ſome degrees, at leaſt, of reaſoning, yet make no colour of Religion; and therefore for deficiency in nothing ſo much as this, is man become like the Beaſts that periſh.</p>
+            <p>Religion I ſay is natural to man, as man; for that there is a ſupremely excellent and perfect Being, the Author of all things be<g ref="char:EOLhyphen"/>ſides, to whom their Government doth be<g ref="char:EOLhyphen"/>long, and therefore to whom worſhip is due, is a truth not only demonſtratively argu'd from the works of Creation and Providence, <hi>Rom.</hi> 1. 20. But a truth im<g ref="char:EOLhyphen"/>preſt upon the very nature of intelligent Creatures, inſeparable from 'em totally, and conſequently to be reckon'd amongſt thoſe firſt and connate notions which the ſoul has of things, <hi>Thoſe laws written in the heart,</hi> Rom. 2. 15.</p>
+            <p>In my judgment, that School of Phi<g ref="char:EOLhyphen"/>loſophers, <note place="margin">Perip.</note> who deny theſe connate no<g ref="char:EOLhyphen"/>tions of things, have ſhaken the foundati<g ref="char:EOLhyphen"/>on of all <hi>certainty</hi> in knowledg, for that
+<pb n="13" facs="tcp:56818:8"/> depends upon ſome common ſtandard, in whoſe allowance all are agreed.</p>
+            <p>And granting ſuch (as we needs muſt), it would be ſtrange we ſhould have imborn apprehenſions of firſt Principles in know<g ref="char:EOLhyphen"/>ledg, which are propoſitional truths, and yet no imborn notion of the prime <hi>verity:</hi> Upon whom even thoſe propoſitional truths rely, for there could be no truth in Propo<g ref="char:EOLhyphen"/>ſitions, if there were not truth in Being.</p>
+            <p>The ſenſe of a Deity therefore, and the venerable Regards ariſing from it, which we call Religion, I do conclude, is na<g ref="char:EOLhyphen"/>tural to man; a notion by our Maker wrought into the Fabrick of the <hi>Mind,</hi> an eſſential Beam of that Coeval light the ſoul is indu'd with to diſcern things.</p>
+            <p>The univerſal conſent of all Nations in all ages, confirms this Truth, and proves Religion, (take it in the General,) was not a politick Invention of men, though the beſt prop of Government, and Cement of Societies, as <hi>Plutarch</hi> calls it.</p>
+            <p>And therefore amongſt intelligent Crea<g ref="char:EOLhyphen"/>tures, Religion is the firſt Law of Nature; for that ſure muſt conſiſt in the firſt Obli<g ref="char:EOLhyphen"/>gation to a Rule (that being, as I take
+<pb n="14" facs="tcp:56818:9"/> it, the proper notion of a Law); And if ſo, Wherein ſhould the firſt Obligati<g ref="char:EOLhyphen"/>on conſiſt, but in reſpects to that thing, wherein Supreme Dominion, and all other Original perfections are ſeated, <hi>i. e.</hi> in God?</p>
+            <p>Self-conſervation (ſpeaking of intelli<g ref="char:EOLhyphen"/>gent Creatures) is but a Secondary Law of Nature, ty'd up in Religion: For is it not all the reaſon in the world, that the firſt Law of Nature ſhould primarily reſpect the firſt Cauſe, and be chiefly terminated upon him, in that we call Religion? As the Secondary Law of Nature, is chiefly terminated upon the Creature, which we call <hi>the Conſervation of it ſelf.</hi>
+            </p>
+            <p>Therefore ſo far as Self-conſervation may be hazarded for the preſervation of Religion, we are obliged to prefer this be<g ref="char:EOLhyphen"/>fore that. Though in truth God has ſo wiſely link't theſe two together, that our Religion to God, preſerv'd with what ha<g ref="char:EOLhyphen"/>zard ſoever, will inſure our Conſervation to our ſelves: <hi>He that loſeth his life for my ſake, ſhall find it.</hi>
+            </p>
+            <p>This Natural Religion, or venerable ſenſe of a Deity, is but (at leaſt in this degene<g ref="char:EOLhyphen"/>rate
+<pb n="15" facs="tcp:56818:9"/> ſtate) a faint ſeed, till it meet with ſome farther active principles or diſpoſiti<g ref="char:EOLhyphen"/>ons in us, to nurſe it up, and give it Cul<g ref="char:EOLhyphen"/>ture.</p>
+            <p>And to the beſt of my apprehenſion, there are but three active Principles capa<g ref="char:EOLhyphen"/>ble to receive this ſeed into their boſoms, <hi>viz. Love,</hi> or <hi>Fear,</hi> or <hi>Worldly deſign.</hi> I mean, there are but theſe three diſtinct, predominant, and habitual diſpoſitions ca<g ref="char:EOLhyphen"/>pable of it. And then,</p>
+            <p n="1">1. <hi>Love</hi> is the genuine principle of a true and perfect Religion.</p>
+            <p n="2">2. <hi>Fear</hi> is the proper principle of Su<g ref="char:EOLhyphen"/>perſtition.</p>
+            <p n="3">3. <hi>Worldly deſign,</hi> devoid of either, is the root of Hypocriſie, and of all things that ever carried the face of Religion.</p>
+            <p>I think there are but theſe three princi<g ref="char:EOLhyphen"/>pal ſorts, for Gentile Idolatry was Super<g ref="char:EOLhyphen"/>ſtition; call'd Idolatry in reſpect of the Object, which was a falſe God, and Super<g ref="char:EOLhyphen"/>ſtition in reſpect of the Worſhipper, who was acted chiefly by Fear.</p>
+            <p>The roots of Hypocriſie may be as vari<g ref="char:EOLhyphen"/>as worldly deſigns are; ſuch as compliance with prevalent cuſtom, vain glory, riches
+<pb n="16" facs="tcp:56818:10"/> and advantage, to be the leader of a Party, the head of a Sect, revenge and malice at others: <hi>For ſome preach Chriſt out of envy,</hi> 
+               <note place="margin">Phil. 1. 15.</note> ſays the Apoſtle.</p>
+            <p>The root of Superſtition is only fear or dread. I mean a Fear without Love, and a dread of harm, if the Divine Power, or that which is thought to have ſo, were not propitiated by ſuch and ſuch ſervices. This brought in ſo many dreadful ſacrifices to the Altar at <hi>Tophet,</hi> and all the Heathen-world over.</p>
+            <p>From whence theſe Three active Princi<g ref="char:EOLhyphen"/>ples, that nurſe up the natural ſeed of Re<g ref="char:EOLhyphen"/>ligion, either into beauty or deformity, do ariſe, is obvious, <hi>viz.</hi> from the various repreſentations of the object of Worſhip.</p>
+            <p>For if that be apprehended, as tranſcen<g ref="char:EOLhyphen"/>dently good, and amiable, the great Im<g ref="char:EOLhyphen"/>preſſion it makes is Love, which cheriſh<g ref="char:EOLhyphen"/>eth Religion into Perfection, Beauty, and a cheerful Obedience.</p>
+            <p>If it be apprehended as dreadful only, and able to do hurt, under the Attributes of Soveraign, but independent Will, and Power; Fear is all the temper it gives, which ferments the natural ſeed of Reli<g ref="char:EOLhyphen"/>gion into Superſtition.</p>
+            <pb n="17" facs="tcp:56818:10"/>
+            <p> But if there be few or no apprehenſi<g ref="char:EOLhyphen"/>ons of Divine Attributes to beget a real Love or Fear, the ſoul of man is at liber<g ref="char:EOLhyphen"/>ty to make uſe of Religion, ſo far as it ſerves worldly deſign; and this principles it with Hypocriſie.</p>
+            <p>So that hypocriſie is nothing but Atheiſm diſſembled under a veil of Religion, and Atheiſm is nothing but Hypocriſie un<g ref="char:EOLhyphen"/>mask'd.</p>
+            <p>A Lover of God is religious for Gods goodneſs ſake, and would be ſo, were there none beſides himſelf in the world: his Re<g ref="char:EOLhyphen"/>ligion may be defin'd, A <hi>ſacred Friendſhip,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>A Superſtitious perſon is religious for fear of harm from what he worſhips, con<g ref="char:EOLhyphen"/>templating nothing but Power and Severi<g ref="char:EOLhyphen"/>ty, but would not be what he is, if alone in the world: his Religion may be defin'd, A flattery of a Divine Power, deem'd to be hurtful, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſays <hi>Max. Tyrius.</hi>
+            </p>
+            <p>An Hypocrite is religious for worldly deſigns only, therefore acts his part in more lively meaſures, than the perſon he repre<g ref="char:EOLhyphen"/>ſents: but would not do ſo, were there no ſpectators, for what he doth, is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="18" facs="tcp:56818:11"/> 
+               <hi>to be ſeen of men,</hi> ſays our Saviour. <note place="margin">Matt. 23.</note>
+            </p>
+            <p>Hypocriſie is culpable only for want of internal reality, 'tis a curious painted ſhew without life, it perſonates what it is not.</p>
+            <p>Superſtition is culpable, not for want of internal reality, but regularity; 'tis true<g ref="char:EOLhyphen"/>ly the off-ſpring of the heart and mind, but 'tis illegitimate; 'tis begot in a rape and fright, for ſuch as are acted by it, be<g ref="char:EOLhyphen"/>lieve Gods Being, but wiſh it were not.</p>
+            <p>
+               <hi>Fear,</hi> when it predominates, and the true God is the Object, may be an initial principle, but 'tis imperfect: if it conti<g ref="char:EOLhyphen"/>nues the habitual principle, and ſuffer not Love to cohabit, I ſee not but it muſt de<g ref="char:EOLhyphen"/>generate into Superſtition; but a fear that is founded in Love, is filial, and rather to be call'd veneration, for a Son fears his Father, becauſe he loves him; and this is allowa<g ref="char:EOLhyphen"/>ble and requiſite in the moſt perfect Reli<g ref="char:EOLhyphen"/>gion: but 'tis a Solitary fear which I intend, when I make it the principle of Superſti<g ref="char:EOLhyphen"/>tion. And now to recollect this part of the diſcourſe:</p>
+            <p>If there be a real object of worſhip, <hi>i. e.</hi> a God, doubtleſs the Religion ought to be real, not hypocritical.</p>
+            <pb n="19" facs="tcp:56818:11"/>
+            <p> If that Religion be a perfect and accep<g ref="char:EOLhyphen"/>table ſervice, doubtleſs it ought to be cheerful, not compulſory, as Superſtition is, that proceeds from <hi>Fear.</hi>
+            </p>
+            <p>If Goodneſs and all perfection be eſſen<g ref="char:EOLhyphen"/>tial Attributes of a Divine Nature, <hi>i. e.</hi> If Power and Soveraign Will be inſeparable from goodneſs, and not its over-match, as ſome would think them; then that Power is comfortable, and not dreadful, till good<g ref="char:EOLhyphen"/>neſs be abus'd and offended. So that Love is the proper and genuine principle of that Religion, which is in its nature perfect, and to God moſt acceptable; as is evident from the firſt and great Commandment, <hi>Thou ſhalt love the Lord,</hi> &amp;c.</p>
+            <p>'Tis true indeed, the mind that is con<g ref="char:EOLhyphen"/>ſcious of offending, has its eye blood-ſhot always with guilt, and therefore can behold nothing in God, but Power and the Seve<g ref="char:EOLhyphen"/>rities of Juſtice. This is the caſe of the Devils, who now can frame no apprehen<g ref="char:EOLhyphen"/>ſions of God, but what are fearful, as ap<g ref="char:EOLhyphen"/>pears from their Faith, whoſe only Pro<g ref="char:EOLhyphen"/>duct is to make 'em tremble.</p>
+            <p>A vitiated eye cannot behold the bright<g ref="char:EOLhyphen"/>neſs <note place="margin">Jam. 2. 19.</note> of the Sun, no more can they the Di<g ref="char:EOLhyphen"/>vine
+<pb n="20" facs="tcp:56818:12"/> Goodneſs, by reaſon of thoſe chains of darkneſs in which they are reſerv'd to <note place="margin">2 Pet. 2. 4.</note> judgment: and thoſe chains of darkneſs are not ſo much their local reſtraints, as their guilt; <hi>For a ſinner is held with the</hi> 
+               <note place="margin">Prov. 5. 22.</note> 
+               <hi>cords of his ſin,</hi> ſays <hi>Solomon,</hi> i. e. A guilty offender can naturally arrive at any opini<g ref="char:EOLhyphen"/>on of God, but as powerful and ſevere in order to puniſhment, unleſs God in mercy give new grounds of hope for pardon up<g ref="char:EOLhyphen"/>on repentance, as he has to mankind by his Son, whom he firſt promis'd, and in due time ſent into the world for this very end, to ſave ſinners by this way, <hi>i. e.</hi> to princi<g ref="char:EOLhyphen"/>ple men afreſh with the Love of God, which their ſin and guilt had extinguiſh't. Which Love of God in this merciful act of Redemption, appears more fully to 'em, than it did before in Creation and Provi<g ref="char:EOLhyphen"/>dence, becauſe 'tis ſuperadded thereunto, and like a ſecond Beam of Light conjoyn'd to a firſt, ſhines to all eyes with a greater luſtre, and therefore attracts a warmer af<g ref="char:EOLhyphen"/>fection.</p>
+            <p>And this I take to be the Apoſtles mean<g ref="char:EOLhyphen"/>ing, <hi>Eph.</hi> 3. 17, 18. <hi>That we being rooted and grounded in love, might be able to</hi>
+               <pb n="21" facs="tcp:56818:12"/> 
+               <hi>comprehend with all Saints what is the breadth, and length, and heighth, and depth, and to know the love of Chriſt, which paſſeth knowledg, i. e.</hi> To know the im<g ref="char:EOLhyphen"/>menſity of that Love of God, diſcovered in Chriſt Jeſus, ſuperadded to all the other inſtances of Divine Goodneſs in Creation and Providence.</p>
+            <p>What ſpirit or frame of mind therefore our Services of God in Chriſtianity ought to proceed from, you ſee according to the Text. And as by this that has been ſaid, we may examine our ſelves in the matter of Fact; ſo we may all thoſe opinions in matter of Faith, pretending to frame Re<g ref="char:EOLhyphen"/>ligion in men, and promote it in the world. For,</p>
+            <p n="1">1. No man can be Religious upon this Principle of Love, but he that has juſt and honourable opinions of Gods good<g ref="char:EOLhyphen"/>neſs, both in his Nature and his Promiſes to men; and therefore whoſoever pro<g ref="char:EOLhyphen"/>motes opinions to render God dreadful to any but impenitent Sinners, whatever their aims may be, can in effect promote nothing but either Deſpair or Superſti<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="2">
+               <pb n="22" facs="tcp:56818:13"/> 2. As all fatal opinions ſtrike at this root of true Religion, ſo none more di<g ref="char:EOLhyphen"/>rectly than thoſe of the <hi>Leviathan</hi> (who has ſwell'd the waters of the Lemon-lake to their full height), and not diſſembling his conſequences, has plainly told us in effect, that there can be no other Religion, but Superſtition among men.</p>
+            <p>For theſe are his words in his Book <hi>of Man, Chap.</hi> 12. <q rend="margQuotes">"In theſe four things, an opinion of Ghoſts, Ignorance in ſecond Cauſes, veneration towards what men fear, and taking things caſual for prognoſticks, conſiſt the natural ſeeds of Religion.</q> From whence theſe inferences are una<g ref="char:EOLhyphen"/>voidable:</p>
+            <p n="1">1. That there can be no Religion but what is truely Superſtition, for theſe na<g ref="char:EOLhyphen"/>tural ſeeds, as he calls 'em, (or rather tares) can produce no fruit but <hi>Fear.</hi>
+            </p>
+            <p n="2">2. That the thing call'd Religion is not ſit to lodg in a wiſe-mans breaſt, ſeeing an idle opinion of Ghoſts, ignorance in ſecond Cauſes, devotion to what men fear, and taking things caſual for progno<g ref="char:EOLhyphen"/>ſticks, are ſeed, 'tis fit a wiſe man ſhould eradicate out of his breaſt as ſoon as he can.</p>
+            <pb n="23" facs="tcp:56818:13"/>
+            <p> Had there been any other natural ſeeds of Religion in his Judgment, ſurely he would have told us, when he ſet himſelf to treat induſtriouſly of their preciſe num<g ref="char:EOLhyphen"/>ber, unleſs he fail'd as much in his Arith<g ref="char:EOLhyphen"/>metick, as in the reſt of his Mathema<g ref="char:EOLhyphen"/>ticks.</p>
+            <p>Of the true God, or any Sentiments of him, he has not ſaid a word, as to any of the natural ſeeds of Religion; for by an opinion of Ghoſts, he means not God, but inviſible Agents, which the <hi>Latines</hi> call <hi>imagines &amp; umbrae,</hi> and thought them ſpirits, <hi>i. e.</hi> thin aerial bodies, as he ex<g ref="char:EOLhyphen"/>plains himſelf in the ſame Chapter, where he adds theſe words: <hi>From the like things paſt men expect the like to come, and hope for good or evil luck ſuperſtitiouſly, from things that have no part in cauſing of it.</hi> This is the humour of taking things caſual for prognoſticks, which he expreſly ac<g ref="char:EOLhyphen"/>knowledgeth to create ſuperſtitious hopes.</p>
+            <p>And he ſays further, <hi>That a perpetual fear always accompanies men in the igno<g ref="char:EOLhyphen"/>rance of ſecond Cauſes.</hi>
+            </p>
+            <p>So that we ſee by his own Explication, theſe ſeeds can ſpring into nothing but
+<pb n="24" facs="tcp:56818:14"/> Fear, which alone can fructifie into no<g ref="char:EOLhyphen"/>thing but direct Superſtition.</p>
+            <p>I know the <hi>Leviathan</hi> has in words aſ<g ref="char:EOLhyphen"/>ſerted the Being of a God infinite and omnipotent; but by excluding him, 'tis evident that in his Judgment no natural ſeed of Religion conſiſts in any Sentiments of him, for he expreſly diſtinguiſheth be<g ref="char:EOLhyphen"/>twixt him and Ghoſts.</p>
+            <p>I know likewiſe he has in words di<g ref="char:EOLhyphen"/>ſtinguiſh't betwixt the Religion of <hi>Gen<g ref="char:EOLhyphen"/>tiliſm</hi> and Chriſtianity, allowing Chriſti<g ref="char:EOLhyphen"/>anity a Divine appointment; thank the <hi>Areopagites</hi> for that! But I ſay he has in the inevitable conſequence of his Doctrine, made Chriſtianity nothing but a Superſti<g ref="char:EOLhyphen"/>tion of Divine appointment.</p>
+            <p>For theſe are his words, p. 54. <hi>Theſe</hi> 
+               <note place="margin">Engl. Edit.</note> 
+               <hi>ſeeds</hi> (i. e. an opinion of Ghoſts igno<g ref="char:EOLhyphen"/>rance in ſecond Cauſes, <hi>&amp;c.) have re<g ref="char:EOLhyphen"/>ceived culture from two ſorts of men, one who have nouriſh't and ordered them accord<g ref="char:EOLhyphen"/>ing to their own invention, the other have done it by Gods Commandment and Dire<g ref="char:EOLhyphen"/>ction, &amp;c. Of the former ſort were all the Founders of Commonwealths and Law-givers among the Gentiles, of the latter ſort were</hi>
+               <pb n="25" facs="tcp:56818:14"/> Abraham, Moſes, <hi>and our bleſſed Saviour.</hi> So he. From whence it muſt needs fol<g ref="char:EOLhyphen"/>low, that <hi>Gentiliſm</hi> and Chriſtianity differ not in the Seeds, but in the Culture, which may alter the growth, but not to<g ref="char:EOLhyphen"/>tally alter the nature of the fruit.</p>
+            <p>Therefore according to this Doctrine, our Bleſſed Saviour, by Gods Command<g ref="char:EOLhyphen"/>ment and Direction, had only theſe Four natural ſeeds of Religion to cultivate, an opinion of Ghoſts, ignorance of ſecond Cauſes, Devotion to what men fear, and taking things caſual for prognoſticks. All which can produce nothing but Fear, and nothing but Fear can produce nothing but Superſtition, and conſequently Chri<g ref="char:EOLhyphen"/>ſtianity is but a Superſtition ſet up by Di<g ref="char:EOLhyphen"/>vine appointment, as <hi>Gentiliſm</hi> was by the Invention of men, according to this Author.</p>
+            <p>What muſick this makes in your ears, I know not; but leſt you think him ei<g ref="char:EOLhyphen"/>ther wittier or wickeder than he deſerves, I'le tell you where he learn'd his Notes.</p>
+            <p>Theſe natural ſeeds of Religion grew firſt in the Garden of <hi>Epicurus. Lucretius,</hi> has ſet 'em down to his hand, out of
+<pb n="26" facs="tcp:56818:15"/> whom he collected 'em into this preciſe number.</p>
+            <q>
+               <note place="margin">Lib. 6. de Rer. Nat. p. 140. <hi>Am<g ref="char:EOLhyphen"/>ſtelodami.</hi>
+               </note>
+               <bibl>[Epic.]</bibl>
+               <lg>
+                  <l>
+                     <hi>Et genus humanum fruſtra plerum<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> probavit,</hi>
+                  </l>
+                  <l>
+                     <hi>Volvere curarum triſtes in pectore fluctus:</hi>
+                  </l>
+                  <l>
+                     <hi>Nam veluti pueri trepidant, at<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> omnia caecis</hi>
+                  </l>
+                  <l>
+                     <hi>In tenebris metuunt; ſic nos in luce timemus</hi>
+                  </l>
+                  <l>
+                     <hi>Interdum nihilo quae ſunt metuenda magis, quàm</hi>
+                  </l>
+                  <l>
+                     <hi>Quae pueri in tenebris pavitant, ſingunt<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> futura.</hi>
+                  </l>
+                  <l>
+                     <hi>Hunc igitur terrorem animi, tenebraſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> neceſſe'ſt,</hi> &amp;c.</l>
+               </lg>
+            </q>
+            <q>
+               <bibl>Et paulo poſt.</bibl>
+               <lg>
+                  <l>Caetera quae fieri in terris coelo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> tuentur</l>
+                  <l>Mortales, pavidis cum pendent mentibu', ſaepe</l>
+                  <l>Efficiunt animos humiles formidine divûm,</l>
+                  <l>Depreſſoſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> premunt ad terram; propterea quod</l>
+                  <l>Ignorantia cauſarum conferre deorum</l>
+                  <l>Cogit ad imperium res, &amp; concedere regnum:</l>
+                  <l>Quorum operum cauſas nulla ratione videre</l>
+                  <l>Poſſunt, ac fieri divino numine rentur.</l>
+               </lg>
+            </q>
+            <q>
+               <note place="margin">Lib. 1. p. 6.</note>
+               <lg>
+                  <l>
+                     <hi>Humana ante oculos</hi> (i. e. Epicuri) <hi>faede cum vita ja<g ref="char:EOLhyphen"/>ceret,</hi>
+                  </l>
+                  <l>
+                     <hi>In terris oppreſſa gravi ſub Religione,</hi>
+                  </l>
+                  <l>
+                     <hi>Quae caput a coeli regionibus oſtendebat;</hi>
+                  </l>
+                  <l>
+                     <hi>Primum Graius homo<g ref="char:punc">▪</g>
+                     </hi> (Epicurus) <hi>mortales tollere contra</hi>
+                  </l>
+                  <l>
+                     <hi>Eſt oculos auſus, primuſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> obſiſtere contra,</hi> &amp;c.</l>
+               </lg>
+            </q>
+            <q>
+               <note place="margin">Lib. 3. p. 76.</note>
+               <lg>
+                  <l>
+                     <hi>At<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ea nimirum quaecun<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+                     </hi> Acherunte <hi>profundo</hi>
+                  </l>
+                  <l>
+                     <hi>Prodita ſunt eſſe, in vita ſunt omnia nobis:</hi>
+                  </l>
+                  <l>
+                     <hi>Nec miſer impendens magnum timet aere ſaxum</hi>
+                  </l>
+                  <l>Tantalus <hi>(ut fama eſt caſſa formidine torpens.)</hi>
+                  </l>
+                  <l>
+                     <hi>Sed magis in vita, Divûm metus urget inanis</hi>
+                  </l>
+                  <l>
+                     <hi>Mortales, caſum<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> timet cuicun<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ferat fors.</hi>
+                  </l>
+               </lg>
+            </q>
+            <pb n="27" facs="tcp:56818:15"/>
+            <p> This is the opinion of Ghoſts, and taking things caſual for prognoſticks.</p>
+            <q>
+               <note place="margin">Lib. 1. p. 6.</note>
+               <lg>
+                  <l>Et quae res nobis vigilantibus obvia mentes </l>
+                  <l>Terrificet, morbo affectis, ſomno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſepultis,</l>
+                  <l>Cernere uti videamur eos, audire<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> coram,</l>
+                  <l>Morte obita quorum tellus complectitur oſſa.</l>
+               </lg>
+            </q>
+            <p>This is the ſame opinion of Ghoſts, or <hi>
+                  <g ref="char:V">Ʋ</g>mbrae,</hi> which word <hi>Lucretius</hi> uſeth elſewhere; and the <hi>Leviathan</hi> in explication of thoſe Ghoſts, uſeth the ſame word <hi>
+                  <g ref="char:V">Ʋ</g>mbrae.</hi>
+            </p>
+            <p>
+               <hi>Quippe ita formido mortales continet omnes:</hi> 
+               <note place="margin">Idem. ibid.</note>
+            </p>
+            <p>
+               <hi>Quorum operum cauſas, &amp;c.</hi> 
+               <q rend="margQuotes">"Which the <hi>Leviathan</hi> in the Chapter of Religion tranſlates in theſe words: A perpetual fear accompanies men in the ignorance of ſecond Cauſes, by which and the like 'tis evident the <hi>Leviathan</hi> did not invent, but took up theſe principles out of <hi>Lucretius.</hi>
+               </q>
+            </p>
+            <p>What <hi>Epicurus</hi>'s deſign was, the ſame <hi>Lucretius</hi> tells us, <hi>Religionum animum nodis exolvere,</hi> to un<g ref="char:EOLhyphen"/>twiſt the bonds and tyes of Religion that kept men in ſuch a ſlaviſh fear, which evidenceth, he thought there was no other Religion but Superſtition; and therefore thoſe words are us'd indifferently by none, but the <hi>Epicureans,</hi> and ſuch as quote their Doctrine, that I can obſerve.</p>
+            <p>What <hi>Lucretius</hi> ſtiles <hi>Religio, Tully</hi> ſtiles <hi>Super<g ref="char:EOLhyphen"/>ſtitio,</hi> who tells us that <hi>Epicurus</hi>'s grand meaſure was this, <hi>Omnium rerum naturâ cognitâ levamur ſu<g ref="char:EOLhyphen"/>perſtitione, liberamur mortis metu. de Nat. Deor.</hi>
+            </p>
+            <pb n="28" facs="tcp:56818:16"/>
+            <l> 
+               <hi>Lucretius</hi> expreſſeth it thus, <hi>lib.</hi> 2. <hi>p.</hi> 28.</l>
+            <l>Hic tibi cum rebus timefacto Religiones</l>
+            <l>Effugiunt animo pavidae, mortiſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> timores</l>
+            <l>Tum vacuum pecius linquunt, cura<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſolutum.</l>
+            <p>All this is to make good my charge, that the <hi>Leviathan</hi> collected only out of <hi>Lucretius</hi> the <hi>Epicurean.</hi>
+            </p>
+            <p>More might be added, but that it would ſwell this Sermon too big.</p>
+            <p>But leſt we that ſeem ſo much to diſ<g ref="char:EOLhyphen"/>like theſe accounts of his, may be judg'd unable to give any better of our own, agree<g ref="char:EOLhyphen"/>able to humane nature and experience; I ſhall briefly in conſent to my Doctrine ſearch into the nature of man in this par<g ref="char:EOLhyphen"/>ticular for better principles than theſe, which I ſhall ſubmit to the inward experi<g ref="char:EOLhyphen"/>ence of mankind, and propound 'em as follows.</p>
+            <p n="1">1. The natural ſeeds of Religion are laid in that imborn ſenſe which the ſoul has of a Deity, the farther inveſtigation of which Deity is left to the more elabo<g ref="char:EOLhyphen"/>rate Acts of Underſtanding: <hi>If men might</hi> 
+               <note place="margin">Act. 17. 27.</note> 
+               <hi>happily feel after him, and find him,</hi> ſays St. <hi>Paul,</hi> compared with the firſt and the ſecond to the <hi>Romans.</hi>
+            </p>
+            <p n="2">
+               <pb n="29" facs="tcp:56818:16"/> 2. To this imborn ſenſe of God in the way of knowledg, there is an imborn ſeed of Love in the way of deſire and affecti<g ref="char:EOLhyphen"/>on adjoyn'd in the ſame mind, to give vigour to it, that it might ſearch out that God to a fuller diſcovery, and be happy in the Contemplations and Love of his Perfections. I am confin'd from a thouſand things in this Cauſe, therefore briefly in a few words.</p>
+            <p>Love is properly an intellectual affecti<g ref="char:EOLhyphen"/>on; and if by reaſon of mans ſenſual part, it do degenerate into luſt, 'tis becauſe the ſoul, which cannot for the bodies weight have its proper delight, is forc't to take up with ſuch fare as is grateful to its compa<g ref="char:EOLhyphen"/>nion.</p>
+            <p>But if we ſcan the true nature of this active Principle, which we call <hi>Love</hi> or <hi>De<g ref="char:EOLhyphen"/>ſire</hi> in humane kind; it will be found a vigorous tendency after ſatisfactory Good, inceſſantly prompting the ſoul to ſearch out the <hi>ſummum bonum:</hi> for this is its proper object, this is at the end of all de<g ref="char:EOLhyphen"/>ſire, and therefore 'tis reſtleſs till it center here, as a magnetick Needle, till it point to its pole; which accounts for that inquie<g ref="char:EOLhyphen"/>tude
+<pb n="30" facs="tcp:56818:17"/> that is both on Earth and in Hell.</p>
+            <p>This Love is the radical affection of hu<g ref="char:EOLhyphen"/>mane nature, all other paſſions, as we call 'em, are but its off-ſpring: for as hopes are but the wings of Deſire, and joys are but the triumphs of Love; ſo ſorrows are but its mourning-weeds, and deſpair is but Loves giving up the Ghoſt. Fears and jea<g ref="char:EOLhyphen"/>louſies, and hatreds, are but the Agues, the Fevers, and Convulſions into which Love is caſt through the oppoſitions it finds in its natural courſe; and if they ariſe to that malignant extremity which we call Deſpair, 'tis the death of the ſoul, becauſe they extinguiſh this vital principle of Love and Deſire.</p>
+            <p>If that the affections of the concupiſci<g ref="char:EOLhyphen"/>ble faculty are natural to man, he cannot be without 'em: even <hi>Dives</hi> in torments, was as ardent in deſires as flames, that <hi>La<g ref="char:EOLhyphen"/>zarus</hi> might relieve him with one drop of water; and ſurely the eternal fruſtration of this radical affection is Hell enough, as its plenary and permanent ſatisfactions are Heaven.</p>
+            <p>But now on the other hand, all the paſſions of the iraſcible faculty are but ca<g ref="char:EOLhyphen"/>ſual
+<pb n="31" facs="tcp:56818:17"/> and accidental, as fear, jealouſie, ha<g ref="char:EOLhyphen"/>tred, <hi>&amp;c.</hi> They are but intended as ſe<g ref="char:EOLhyphen"/>conds to Love, to fight its Battels, and overcome its oppoſites; where no oppoſite is, there is no occaſion for their ſervice: therefore mans nature may be wholly without theſe, and ſhall never be happy till it be.</p>
+            <p>This love or radical affection after ſa<g ref="char:EOLhyphen"/>tisfactory, <hi>i. e.</hi> the greateſt Good, being thus inſeparable from the ſoul of man, by look<g ref="char:EOLhyphen"/>ing always out of it ſelf for ſatisfaction, demonſtrates, <hi>That it's proper object is with<g ref="char:EOLhyphen"/>out it ſelf.</hi>
+            </p>
+            <p>For finitude is an empty thing, much more a ſingle finite Being, and therefore from it ſelf alone ariſeth no ſatisfaction; which is the reaſon, that all created appe<g ref="char:EOLhyphen"/>tites and deſires look out of themſelves. God only can be happy in and from him<g ref="char:EOLhyphen"/>ſelf, but 'tis not good in any ſenſe for man to be alone.</p>
+            <p>Created Love therefore is an hunger and thirſt that ariſes from our finite natures, and is in a manner wholly receptive: Gods Love is the emanation of an infinite good<g ref="char:EOLhyphen"/>neſs, and therefore wholly Communicative.
+<pb n="32" facs="tcp:56818:18"/> The flame of our affections like a Lamp, muſt always be fed with Oyl, or it will expire: God like the Sun, gives out his Rays, but takes in none.</p>
+            <p>This radical Love, this impulſive De<g ref="char:EOLhyphen"/>ſire (I ſpeak of it not in the act, but in the root and principle) was the grand Im<g ref="char:EOLhyphen"/>preſſion or Signature which Divine goodneſs ſtampt upon our nature, when he made us in his Image; and therefore 'tis that Tally which nothing can exactly fit, but that by which it was ſtruck, as the hollow im<g ref="char:EOLhyphen"/>preſſions in the Wax, can be exactly fitted by nothing but the ſeal that made 'em.</p>
+            <p>This is the reaſon of an endleſs labour among men; ſomething they would have, though diſtinctly they know not what, without which they cannot be at reſt.</p>
+            <p>For we find this impulſive affection is infinite, <hi>i. e.</hi> boundleſs: for as the Image or Signature of all Gods Attributes may be found impreſt upon ſome or other of our faculties; ſo <hi>Infinity</hi> is impreſt upon De<g ref="char:EOLhyphen"/>ſire and Love, that it might take no reſt ſhort of Immortality and Infinite goodneſs, <hi>i. e.</hi> of God.</p>
+            <pb n="33" facs="tcp:56818:18"/>
+            <p> In all other objects we affect with hopes of ſatisfaction. <hi>Solomon</hi> who try'd 'em to the utmoſt, has aſſured us, <hi>That which is</hi> 
+               <note place="margin">Eccleſ. 1. 15.</note> 
+               <hi>wanting cannot be numbred:</hi> and indeed how ſhould it? For 'tis infinity in good<g ref="char:EOLhyphen"/>neſs that is a-wanting, 'tis God and his Divine Perfections, all humane Love is ſearching for: we may number cyphers whilſt we pleaſe, but if God be not chief in the Souls account, the Product will be no more than vanity; the thing we ſhall find our ſelves poſſeſt of, can be no more than vexation of ſpirit.</p>
+            <p>And if this be true (as in conſiderative men I think experience will atteſt), it plainly appears, That this reſtleſs impul<g ref="char:EOLhyphen"/>ſive affection after ſatisfactory-good, was given us on purpoſe to make us happy, <hi>i. e.</hi> to carry us and unite us to God; if through vain miſtakes it miſlead us another way, it makes us miſerable, becauſe 'tis ſure to be diſappointed.</p>
+            <p>You ſee therefore according to the true nature of man, which our good and wiſe Creator fram'd, Religion (which is only the inſtrument of our happineſs, <hi>i. e.</hi> the <hi>Medium</hi> of our Union with God) was
+<pb n="34" facs="tcp:56818:19"/> intended to be put into the hands of Love, as that alone which gives up the heart and mind, and unites to its object.</p>
+            <p>Every man therefore ſhall have ſo much happineſs, and no more, as the grand Ob<g ref="char:EOLhyphen"/>ject of his Love can afford him; for this is his God, and if that be a thing of a pe<g ref="char:EOLhyphen"/>riſhing nature, as riches, honours, and ſen<g ref="char:EOLhyphen"/>ſual pleaſures are, his happineſs muſt of neceſſity be ſo too.</p>
+            <p>And that all this is true, is plain from this, That this ſupreme affection termi<g ref="char:EOLhyphen"/>nated upon any thing but God, converts into Idolatry, which argues that this Love is due to God alone. And for this rea<g ref="char:EOLhyphen"/>ſon, Idolatry in the prophetical language, is call'd <hi>Whoredom, Adultery,</hi> and <hi>Fornica<g ref="char:EOLhyphen"/>tion,</hi> 
+               <note place="margin">Ezek. 23.</note> i. e. the giving to another what's due to God ſolely.</p>
+            <p>For be the object what it will, all ar<g ref="char:EOLhyphen"/>dent Love is a ſtrain of Adoration, it can<g ref="char:EOLhyphen"/>not expreſs it ſelf but in religious language, it falls down and worſhips: It makes a Deity of the thing it ſo affects, and ſets up an Idol in the heart, <hi>Ezek.</hi> 14. 3. And the reaſon is this:</p>
+            <p>In the intention of our Maker, Love was
+<pb n="35" facs="tcp:56818:19"/> given us to make us happy; it qualifies the ſoul for the greateſt felicity, and en<g ref="char:EOLhyphen"/>larges it to receive an infinite ſatisfaction, which if it look for in any but the true God, it ſets up a falſe God in his room, by aſcribing that ſatisfactory<g ref="char:punc">▪</g>goodneſs to another thing, which is in God alone.</p>
+            <p>What other things, beſides God, we may be allowed to love, and for what Reaſons, and to what Degrees, I muſt not attempt the Explication of.</p>
+            <p>But that what I ſay harmonizeth, both with the truth of Experience and Re<g ref="char:EOLhyphen"/>ligion, if underſtood, I do not doubt; and if ſo, all that I ſhall add is this.</p>
+            <p>'Tis impoſſible to love what we do not know; That that may be known of God in Creation and Providence, is worthy of our ſtudy and notice; but that that ap<g ref="char:EOLhyphen"/>pears in Redemption by Chriſt Jeſus, is to us much more conſiderable. Every thing therein, as it gives us better knowleg of God; ſo it conſpires to ſhed abroad in our hearts a greater love, for we muſt love in proportion to what we know. And this gives us an account of that
+<pb n="36" facs="tcp:56818:20" rendition="simple:additions"/> of that of our Saviour. <hi>To know the</hi> 
+               <note place="margin">Joh. 17. 3.</note> 
+               <hi>only true God and Jeſus Chriſt, whom he hath ſent is life-eternal.</hi>
+            </p>
+            <p>
+               <hi>Which God of his infinite Mercy grant us, by giving us the bleſſed Spirit of knowledg, and love, for the ſake of Je<g ref="char:EOLhyphen"/>ſus our Saviour and Interceſſor: To whom,</hi> &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>
+               <hi>Two Books lately Printed for</hi> Henry Brome, <hi>at the</hi> Gun <hi>at the</hi> Weſt-End <hi>of St.</hi> Pauls, 1678.</head>
+            <head type="sub">Octavo.</head>
+            <p>CHriſtianity no Enthuſiaſm: or, the ſeveral kinds of Inſpirations and Revelations pre<g ref="char:EOLhyphen"/>tended to by the Quakers, tryed, and found de<g ref="char:EOLhyphen"/>ſtructive to Holy Scripture and true Religion: In Anſwer to <hi>Thomas Ellwood</hi>'s Defence thereof, in his Tract, miſcalled <hi>Truth Prevailing,</hi> &amp;c.</p>
+            <p>A Diſcourſe concerning God's Judgments, re<g ref="char:EOLhyphen"/>ſolving many weighty Queſtions and Caſes rela<g ref="char:EOLhyphen"/>ting to them. Preached (for the ſubſtance of it) at <hi>Old Swinford</hi> in <hi>Worceſter ſhire:</hi> And now pub<g ref="char:EOLhyphen"/>liſhed to accompany the annexed Narrative con<g ref="char:EOLhyphen"/>cerning the Man whoſe Hands and Legs later rotted off: In the neighbouring Pariſh of <hi>Kings-Swinford</hi> in <hi>Stafford-ſhire,</hi> penned by another Author. By <hi>Simon Ford,</hi> D. D. and Rector of the ſaid Pariſh.</p>
+            <pb facs="tcp:56818:20"/>
+         </div>
+      </back>
+   </text>
+</TEI>
